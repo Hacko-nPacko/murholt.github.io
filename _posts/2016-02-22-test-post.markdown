@@ -8,3 +8,6 @@ categories: jekyll physics
 
 - bullet
 - list
+
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
