@@ -14,7 +14,7 @@ categories: jekyll physics
 - leger på cafe bopa
 
 
-[Elev](elev)
+[Elev](elev.html)
 
 
 Seb1
