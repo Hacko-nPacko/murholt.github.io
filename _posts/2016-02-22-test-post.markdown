@@ -18,4 +18,6 @@ Seb1
 ![fun cat](https://i.ytimg.com/vi/icqDxNab3Do/maxresdefault.jpg)
 Seb2
 
-![Image of Yaktocat](images/yaktocat.png)
+Verdens bedste logo
+
+![](http://murholt.github.io/images/logo.jpg)
