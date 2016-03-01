@@ -8,6 +8,14 @@ categories: jekyll physics
 
 - bullet
 - list
+- adfsdf
+- sdfsdf
+- sfdsf
+- leger på cafe bopa
 
 
-![Image of Yaktocat](/images/yaktocat.png)
+Seb1
+![fun cat](https://i.ytimg.com/vi/icqDxNab3Do/maxresdefault.jpg)
+Seb2
+
+![Image of Yaktocat](images/yaktocat.png)
