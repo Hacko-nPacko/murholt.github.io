@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Test post"
+title:  "Seb is great"
 date:   2016-02-22 11:09:40 +0200
 categories: jekyll physics
 ---
-# with seb a test post
+# iSEB a test post
 
 - bullet
 - list
